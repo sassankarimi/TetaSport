@@ -1,0 +1,35 @@
+﻿@font-face {
+    font-family: 'iranSans';
+    src: local('IRANSans(FaNum)'),url('./fonts/IRANSans(FaNum).ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranSansBold';
+    src: local('iransans(fanum)_bold'),url('./fonts/IRANSans(FaNum)_Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pagesBG {
+    background: url('assets/page-bg.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100% !important;
+    min-height: 100%;
+}
+
+.pagesBG--dark {
+    background: url('/src-dark/backgrounds/page-bg.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100% !important;
+    min-height: 100%;
+}
+
+
