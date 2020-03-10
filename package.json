@@ -8,7 +8,7 @@
     "glamor": "^2.20.40",
     "hashids": "^1.2.2",
     "izitoast": "^1.4.0",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "leaflet": "^1.4.0",
     "mdbreact": "^4.13.0",
     "rc-time-picker": "^3.6.4",
